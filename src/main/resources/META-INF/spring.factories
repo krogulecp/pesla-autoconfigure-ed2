@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+info.pesla.autoconfigure.header.HeaderAutoconfigure, \
+info.pesla.autoconfigure.swagger.SwaggerEndpointsAutoconfigure
+
